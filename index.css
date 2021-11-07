@@ -1,0 +1,62 @@
+.btn-primary {
+    width: 100%;
+}
+.col-md-11 .a {
+    width: 90%;
+}
+
+.input-group > .input-group-text {
+    background-color: white;
+    border: none;
+}
+
+.input-group {
+    border-style: groove;
+    width: 20%;
+}
+.HassansProfile {
+    width: 80%;
+
+}
+.row-Border {
+    border-style: solid;
+    border-width: 1;
+    border-color: rgb(229 228 228);
+}
+.bi-check-circle-fill {
+    width: 20%;
+}
+.navigation-align {
+    justify-content:space-around;
+}
+.no-margin > p {
+    margin: 0;
+}
+.bi-person-fill {
+    float: right;
+}
+textarea.form-control {
+    border: none;
+}
+.bottomOfPage {
+    bottom: 0;
+    position: fixed;
+    width: 30%;
+}
+.bottomOfPage .HassansProfile {
+    width: 220%;
+    align-content: center;
+}
+.home {
+    color: black;
+    text-decoration: none;
+}
+.profileSize {
+    align-self: center;
+    width: 150%;
+}
+.BorderMessage {
+    border-style: groove;
+    border-color: rgb(149 143 143 / 25%);
+    border-block-end: none;
+}
